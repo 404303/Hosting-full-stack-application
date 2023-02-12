@@ -14,4 +14,4 @@
 * Preparing env variables
 * Install Node
 * Install aws cli
-* Deploy app
+* Deploy
